@@ -1,0 +1,30 @@
+#MacOS
+*.DS_Store
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs and cash
+*.txt
+config.*
+*.cache
+Makefile.config
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+#Qt files
+moc_*
